@@ -1,0 +1,22 @@
+section {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    border-bottom:  1px solid red;
+}
+
+
+img{
+    outline: 1px solid  blue;
+    background-color: aqua;
+    transform: translateX(-100%);
+    transition: 1s;
+    background-color: #f0f0f0;
+    height: 200px;
+    flex-direction: row-reverse;
+}
+
+
+/* 
+img{
+    flex-direction: row-reverse;
+} */
